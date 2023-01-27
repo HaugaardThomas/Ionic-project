@@ -1,0 +1,75 @@
+.col_timezone {
+    text-align: center;
+    margin-top: 60px;
+    font-weight: bold;
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.col_current_temp {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 70px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.col_line {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 35px;
+}
+
+.col_current_weatherCondition {
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.col_curren_temp_feels_like_under_line {
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col_img_icons_bottom {
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 100px;
+}
+
+.img_icons_bottom {
+    width: 80px;
+    margin: auto;    
+    display: block; 
+    margin-bottom: -25px;
+}
+
+.col_current_temp_feels_like_bottom_left {
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col_bottom_rows_temp {
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col_date_bottom {
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+}

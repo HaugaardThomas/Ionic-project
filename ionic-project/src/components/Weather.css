@@ -1,0 +1,92 @@
+ion-row {
+    text-align: center;
+    font-size: 2.5vw;
+    } 
+    .IonCol_Weather_date {
+        background-color: #627b8f;
+        color: whitesmoke;
+        font-size: 8px;
+        text-transform: capitalize;
+        padding: 7px;
+        margin: 1px;
+        margin-bottom: 0px;
+
+    }
+
+    .IonCol_img_icons {
+        background-color: #2484db;
+        padding: 7px;
+        margin: 1px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .IonCol_temp {
+        background-color: #345672;
+        padding: 7px;
+        margin: 1px;
+        margin-top: 0px;
+        color: whitesmoke;
+    }
+
+    .col_img_big_left {
+        padding-top: 5px;
+        padding-left: 1px;
+        padding-right: 2px;
+        font-size: 6.1px;
+        text-align: left;
+    }
+    .col_img_big_right {
+        padding-top: 5px;
+        padding-right: 1px;
+        padding-left: 2px;
+        font-size: 6.1px;
+        text-align: left;
+    }
+
+    .img_big {
+       height: 126px;
+        object-fit: fill;
+      
+      
+    }
+
+    .row_bottom {
+        margin-top: 10px;
+    }
+
+    .img_fores_bottom {
+        object-fit: fill;
+        height: 50px;
+    }
+
+    .col_img_bottom {
+        height: 50px;
+        padding-left: 1px;
+        padding-top: 0px;
+        padding-right: 0px;
+        
+    }
+
+
+    .col_bottom_blue_box {
+        background-color: #4fb0da;
+        text-align: left;
+        height: 50px;
+        padding-right: 1px;
+
+    }
+
+    .col_title_bottom {
+        text-align: left;
+        padding-left: 0px;
+        font-weight: bold;
+        font-size: 17px;
+    }
+
+    .col_text_bottom {
+       font-size: 8px;
+       
+    }
+
+ 

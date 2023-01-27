@@ -1,0 +1,15 @@
+
+.IonToolbar_App {
+    --background: #f29422;
+    color: whitesmoke;
+    
+}
+.IonTitle_App {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.ion_content {
+    --background: url(../images/app\ background\ blue.jpg)
+    
+}
